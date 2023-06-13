@@ -1,4 +1,8 @@
-### Hi there 👋
+### 💬 Hi there!
+
+
+🌱 I am a developer from Russia. ⚡ I like to spend a lot of time in nature and write a lot of code.
+
 
 <!--
 **nailshakurov/nailshakurov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
